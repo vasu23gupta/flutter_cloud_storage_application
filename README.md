@@ -1,16 +1,5 @@
-# internship_application
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+used firebase for backend.
+app has to be restarted (widget has to be rebuilt) to update list of uploaded items,  show correct username after registering.
+nternet connectivity required to login, register, upload, download.
+some plugins might require different versions of gradle, android ndk which might not be installed on your device.
+not tested on ios.
